@@ -51,6 +51,10 @@ The app will run locally at `http://localhost:5173` (or whichever port Vite uses
 
 You can deploy this project using platforms like **Vercel**, **Netlify**, or **Render**.
 
+**##For supabase connection or to connect databse
+**
+you required supabase key,url and project id just change into (integration/supbase) folder of project
+
 To deploy:
 
 1. Push the project to GitHub or GitLab.
